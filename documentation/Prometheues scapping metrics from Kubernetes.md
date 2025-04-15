@@ -1,6 +1,6 @@
 # Step 1: Create kubenetes state metrics
 
-[kube-state-metrics.yaml](./kube-state-metrics.yaml)
+[kube-state-metrics.yaml](kube-state-metrics.yaml)
 ### Create prometheus.yaml file as follow
 ```
 # my global config
